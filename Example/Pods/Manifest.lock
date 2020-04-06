@@ -1,0 +1,16 @@
+PODS:
+  - DQRScanner (0.1.0)
+
+DEPENDENCIES:
+  - DQRScanner (from `../`)
+
+EXTERNAL SOURCES:
+  DQRScanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DQRScanner: 72029ea9765609f6cfa3e76107a7329653c2ae15
+
+PODFILE CHECKSUM: 81f634516abdd0e7942f203132386702be1efb53
+
+COCOAPODS: 1.7.4
